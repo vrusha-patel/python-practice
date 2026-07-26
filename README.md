@@ -2,25 +2,31 @@
 
 Welcome to my Python practice repository.
 
-I created this repository to document my Python learning journey as I pursue my M.Tech in Data Science.
+I created this repository to document my Python learning journey as I begin my M.Tech in Data Science. This repository will contain Python concepts, practice programs, and mini-projects that I complete while learning.
 
 ## Current Contents
 
-- 01_hello_world.py
+-  01_hello_world.py
+-  02_variables.py
+-  03_data_types.py
 
 ## Upcoming Topics
 
-- Variables
-- Data Types
-- Operators
 - Input & Output
+- Operators
 - Conditional Statements
 - Loops
 - Functions
 - Lists
+- Tuples
 - Dictionaries
-- Object-Oriented Programming
+- Sets
+- File Handling
+- Exception Handling
+- Object-Oriented Programming (OOP)
 
 ## Goal
 
-To build a strong foundation in Python for Data Science, Machine Learning, and AI through consistent daily practice.
+To build a strong foundation in Python for Data Science, Machine Learning, and Artificial Intelligence through consistent practice and hands-on projects.
+
+This repository is continuously updated as I learn new Python concepts.
