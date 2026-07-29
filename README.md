@@ -7,13 +7,12 @@ I created this repository to document my Python learning journey as I begin my M
 ## Current Contents
 
 -  01_hello_world.py
--  02_variables.py
--  03_data_types.py
+-  02_variables.ipynb
+-  03_data_types.ipynb
+-  04_operators.ipynb
 
 ## Upcoming Topics
 
-- Input & Output
-- Operators
 - Conditional Statements
 - Loops
 - Functions
