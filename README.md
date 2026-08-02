@@ -10,9 +10,11 @@ I created this repository to document my Python learning journey as I begin my M
 -  02_variables.ipynb
 -  03_data_types.ipynb
 -  04_operators.ipynb
+-  05_type_casting.ipynb
 
 ## Upcoming Topics
 
+- Strings
 - Conditional Statements
 - Loops
 - Functions
